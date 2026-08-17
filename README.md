@@ -24,6 +24,7 @@ I also completed a Business Studies Certificate and am interested in the busines
 ## Interests
 
 • Translational Medicine • Computational Genomics • AI in Healthcare • Drug Discovery & Development 
+
 • Biotech Strategy & Equity Research • Scientific Entrepreneurship
 
 ## What I'm Working On

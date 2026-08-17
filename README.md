@@ -28,7 +28,7 @@ I also completed a Business Studies Certificate and am interested in the busines
 
 ## What I'm Working On
 
-Expanding my skills in artificial intelligence and machine learning, with a focus on how these tools can be applied to biological and healthcare data.
+Expanding my skills in artificial intelligence and machine learning, with a focus on how these tools are applied to biological and healthcare data.
 
 ## Connect With Me
 

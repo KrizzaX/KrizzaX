@@ -1,8 +1,10 @@
 # Hi, I'm Kris 👋
 
-I'm a Computer Science graduate from Hunter College with a concentration in Bioinformatics. I'm interested in bioinformatics, computational biology, and biomedical data analysis. I also completed a Business Studies Certificate, which has helped me develop an interest in the business and financial side of biotechnology.
+I'm a Computer Science graduate from Hunter College with a concentration in Bioinformatics. I'm interested in using data and computational methods to better understand disease and support advances in healthcare.
 
-I'm especially interested in opportunities where science, data, and business overlap, including bioinformatics, biomedical data science, and biotech equity research.
+I currently work as a Patient Care Coordinator, where I've learned the importance of building strong relationships with patients and creating a positive experience through communication, trust, and empathy. Working closely with people every day has shaped the way I think about healthcare and strengthened my interest in work that connects science and technology with real patient impact.
+
+I also completed a Business Studies Certificate and am interested in the business and financial side of biotechnology, particularly where science, data, and business come together.
 
 ## Technical Skills
 
@@ -21,4 +23,9 @@ I'm especially interested in opportunities where science, data, and business ove
 
 ## Interests
 
-Translational Medicine • Computational Genomics • AI in Healthcare • Drug Discovery & Development • Biotech Strategy & Equity Research
+• Translational Medicine • Computational Genomics • AI in Healthcare • Drug Discovery & Development 
+• Biotech Strategy & Equity Research • Scientific Entrepreneurship
+
+## What I'm Working On
+
+I want to expand my skills in artificial intelligence and machine learning, with a focus on how these tools can be applied to biological and healthcare data.

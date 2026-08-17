@@ -24,9 +24,12 @@ I also completed a Business Studies Certificate and am interested in the busines
 ## Interests
 
 • Translational Medicine • Computational Genomics • AI in Healthcare • Drug Discovery & Development 
-
 • Biotech Strategy & Equity Research • Scientific Entrepreneurship
 
 ## What I'm Working On
 
 I want to expand my skills in artificial intelligence and machine learning, with a focus on how these tools can be applied to biological and healthcare data.
+
+## Connect With Me
+
+Feel free to connect with me on LinkedIn.
